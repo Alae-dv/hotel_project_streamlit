@@ -68,7 +68,7 @@ Algèbre relationnelle
 
 📸 Démonstration
 📹 Lien vers la vidéo de démonstration :https://drive.google.com/drive/u/1/folders/11mG_v7ppmKZCjiftYvYeW8RczweFjOnM
-📂 Lien vers le dépôt GitHub : [à compléter si tu le partages avec quelqu’un]
+📂 Lien vers le dépôt GitHub : https://github.com/Alae-dv/hotel_project_streamlit.git
 
 
 ce projet est REALISER PAR :
