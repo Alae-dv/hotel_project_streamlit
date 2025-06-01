@@ -72,5 +72,6 @@ Algèbre relationnelle
 
 
 ce projet est REALISER PAR :
-Alae wahman
-mohammed ouhammou
+Alae wahman  N apogee : 2334318 
+mohammed ouhammou N apogee : 23322089
+Filliere :INF / grouoe :03 
